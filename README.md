@@ -1,0 +1,2 @@
+# smartcc
+SMART CAMPUS APP
